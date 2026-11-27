@@ -1,0 +1,236 @@
+{
+  "S1": {
+    "host": "local",
+    "first_step": 1,
+    "last_step": 2679,
+    "last_time": 26.79,
+    "accepted_steps": 2679,
+    "timed_updates": 63568,
+    "broad_median_s": 0.4950966485,
+    "fastest_step": 652,
+    "fastest_step_median_s": 0.492726181,
+    "fastest_step_updates": 21,
+    "fastest_10_step_window": [
+      0.4934762855,
+      645,
+      654
+    ],
+    "reported_s": 0.492726181,
+    "statistic": "fastest accepted step median",
+    "cost_estimate": {
+      "billable_unit": "GPU",
+      "units": 1,
+      "credits_per_unit_hour": 9.8,
+      "credits_per_1000_updates": 1.34131016
+    },
+    "source_sample_sha256": "a346cd88c25ef2e9aca1dc251108a21d38bf996c82e438c7dfd60eed06bc6ef1"
+  },
+  "S2": {
+    "host": "local",
+    "first_step": 501,
+    "last_step": 1500,
+    "last_time": 10.0,
+    "accepted_steps": 1000,
+    "timed_updates": 38383,
+    "broad_median_s": 1.370229965,
+    "fastest_step": 757,
+    "fastest_step_median_s": 1.3670989125,
+    "fastest_step_updates": 34,
+    "fastest_10_step_window": [
+      1.3680174075,
+      752,
+      761
+    ],
+    "reported_s": 1.3670989125,
+    "statistic": "fastest accepted step median",
+    "cost_estimate": {
+      "billable_unit": "GPU",
+      "units": 1,
+      "credits_per_unit_hour": 9.8,
+      "credits_per_1000_updates": 3.72154704
+    },
+    "source_sample_sha256": "03d83e54faeed94670a8726ccbd480c36aa169a639b9569a55504a6820cb71bd"
+  },
+  "S3": {
+    "host": "bsscn32h",
+    "first_step": 501,
+    "last_step": 2392,
+    "last_time": 14.46,
+    "accepted_steps": 1892,
+    "timed_updates": 93581,
+    "broad_median_s": 0.728070714,
+    "fastest_step": 558,
+    "fastest_step_median_s": 0.726353672,
+    "fastest_step_updates": 27,
+    "fastest_10_step_window": [
+      0.7273123189999999,
+      553,
+      562
+    ],
+    "reported_s": 0.728070714,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "GPU",
+      "units": 4,
+      "credits_per_unit_hour": 6.8,
+      "credits_per_1000_updates": 5.50097873
+    },
+    "source_sample_sha256": "e6354a93807fa8d29252d8a855de3ffa7830441eab901ac09a3ec5e0e89af0ab"
+  },
+  "S4": {
+    "host": "bsscn32h",
+    "first_step": 1,
+    "last_step": 2054,
+    "last_time": 20.54,
+    "accepted_steps": 2054,
+    "timed_updates": 93436,
+    "broad_median_s": 0.322161802,
+    "fastest_step": 114,
+    "fastest_step_median_s": 0.321572089,
+    "fastest_step_updates": 22,
+    "fastest_10_step_window": [
+      0.3218770575,
+      402,
+      411
+    ],
+    "reported_s": 0.322161802,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "GPU",
+      "units": 4,
+      "credits_per_unit_hour": 6.8,
+      "credits_per_1000_updates": 2.43411139
+    },
+    "source_sample_sha256": "4c40afaef34fd09e7f021dce5c816b00b15067c98576abd6d0620cbb5a66753f"
+  },
+  "S5": {
+    "host": "cs",
+    "first_step": 1,
+    "last_step": 404,
+    "last_time": 4.04,
+    "accepted_steps": 404,
+    "timed_updates": 14961,
+    "broad_median_s": 1.74888795,
+    "fastest_step": 1,
+    "fastest_step_median_s": 1.5280030925,
+    "fastest_step_updates": 20,
+    "fastest_10_step_window": [
+      1.74710643775,
+      119,
+      128
+    ],
+    "reported_s": 1.74888795,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "CPU core",
+      "units": 128,
+      "credits_per_unit_hour": 0.045,
+      "credits_per_1000_updates": 2.79822072
+    },
+    "source_sample_sha256": "cc18c027c9a888d38adb5ca423a6d95733557d3f74921a5a80e990795869560d"
+  },
+  "S6": {
+    "host": "bssca8-bl",
+    "first_step": 501,
+    "last_step": 540,
+    "last_time": 5.2,
+    "accepted_steps": 40,
+    "timed_updates": 1013,
+    "broad_median_s": 3.043570189,
+    "fastest_step": 527,
+    "fastest_step_median_s": 3.036982825,
+    "fastest_step_updates": 26,
+    "fastest_10_step_window": [
+      3.04155638475,
+      521,
+      530
+    ],
+    "reported_s": 3.043570189,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "CPU core",
+      "units": 256,
+      "credits_per_unit_hour": 0.045,
+      "credits_per_1000_updates": 9.7394246
+    },
+    "source_sample_sha256": "fce02b3b25d1a01fdcb43e59aa368d259a0bbd62e737e5fa90fb1ffcf089439f"
+  },
+  "S7": {
+    "host": "bssca",
+    "first_step": 1,
+    "last_step": 328,
+    "last_time": 3.28,
+    "accepted_steps": 328,
+    "timed_updates": 10926,
+    "broad_median_s": 1.9022497985,
+    "fastest_step": 240,
+    "fastest_step_median_s": 1.8927810379999999,
+    "fastest_step_updates": 34,
+    "fastest_10_step_window": [
+      1.898524683,
+      249,
+      258
+    ],
+    "reported_s": 1.9022497985,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "CPU core",
+      "units": 256,
+      "credits_per_unit_hour": 0.04,
+      "credits_per_1000_updates": 5.41084387
+    },
+    "source_sample_sha256": "588b04deca293498d86775fbb2c91ec2bb14ce7a09c4c305a0810011dcc810a7"
+  },
+  "B1": {
+    "host": "bssca8-bl",
+    "first_step": 1,
+    "last_step": 500,
+    "last_time": 5.0,
+    "accepted_steps": 500,
+    "timed_updates": 21544,
+    "broad_median_s": 2.1559736745,
+    "fastest_step": 361,
+    "fastest_step_median_s": 2.12855005,
+    "fastest_step_updates": 49,
+    "fastest_10_step_window": [
+      2.137600636,
+      39,
+      48
+    ],
+    "reported_s": 2.1559736745,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "CPU core",
+      "units": 1024,
+      "credits_per_unit_hour": 0.045,
+      "credits_per_1000_updates": 27.59646303
+    },
+    "source_sample_sha256": "de0d279bfcdb263db2c2ad5a6da602b7e3bf653587eaa8f26f3dc08b68cb01b6"
+  },
+  "B2": {
+    "host": "bssca",
+    "first_step": 1,
+    "last_step": 500,
+    "last_time": 5.0,
+    "accepted_steps": 500,
+    "timed_updates": 21600,
+    "broad_median_s": 6.500273192,
+    "fastest_step": 46,
+    "fastest_step_median_s": 6.3658651724999995,
+    "fastest_step_updates": 26,
+    "fastest_10_step_window": [
+      6.3849756705,
+      40,
+      49
+    ],
+    "reported_s": 6.500273192,
+    "statistic": "pooled median of updates",
+    "cost_estimate": {
+      "billable_unit": "CPU core",
+      "units": 1024,
+      "credits_per_unit_hour": 0.04,
+      "credits_per_1000_updates": 73.95866387
+    },
+    "source_sample_sha256": "66b817ae39127b0f6f4e2d5897ad167eebb65aee6986e9ee0cae2883e6b43a5c"
+  }
+}
