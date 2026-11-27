@@ -1,0 +1,100 @@
+{
+  "tracked_bytes": {
+    "cuda:0": 41496761436,
+    "host:-1": 4926273166
+  },
+  "count": {
+    "cuda:0": 178,
+    "host:-1": 100
+  },
+  "provider_private_requested_live": 5044970716,
+  "provider_requested_peak": 5276557108,
+  "level_bytes": [
+    {
+      "level": 0,
+      "block_rows": 4823991,
+      "block_nonzeros": 22984660,
+      "block_size": 6,
+      "numeric_owned": 0,
+      "numeric_borrowed": 8008891488,
+      "pattern": 169122504,
+      "inverse": 1389309408,
+      "transfer": 41164476,
+      "workspace": 524844192
+    },
+    {
+      "level": 1,
+      "block_rows": 643136,
+      "block_nonzeros": 4440598,
+      "block_size": 6,
+      "numeric_owned": 1464115392,
+      "numeric_borrowed": 0,
+      "pattern": 28052576,
+      "inverse": 185223168,
+      "transfer": 5464008,
+      "workspace": 69395040
+    },
+    {
+      "level": 2,
+      "block_rows": 79729,
+      "block_nonzeros": 864744,
+      "block_size": 6,
+      "numeric_owned": 272008224,
+      "numeric_borrowed": 0,
+      "pattern": 4734648,
+      "inverse": 22961952,
+      "transfer": 665220,
+      "workspace": 8311200
+    },
+    {
+      "level": 3,
+      "block_rows": 6846,
+      "block_nonzeros": 83952,
+      "block_size": 6,
+      "numeric_owned": 26149824,
+      "numeric_borrowed": 0,
+      "pattern": 445352,
+      "inverse": 1971648,
+      "transfer": 58480,
+      "workspace": 746208
+    },
+    {
+      "level": 4,
+      "block_rows": 927,
+      "block_nonzeros": 10680,
+      "block_size": 6,
+      "numeric_owned": 3342816,
+      "numeric_borrowed": 0,
+      "pattern": 57560,
+      "inverse": 266976,
+      "transfer": 7932,
+      "workspace": 101280
+    },
+    {
+      "level": 5,
+      "block_rows": 128,
+      "block_nonzeros": 1252,
+      "block_size": 6,
+      "numeric_owned": 397440,
+      "numeric_borrowed": 0,
+      "pattern": 7064,
+      "inverse": 36864,
+      "transfer": 1096,
+      "workspace": 13920
+    },
+    {
+      "level": 6,
+      "block_rows": 17,
+      "block_nonzeros": 100,
+      "block_size": 6,
+      "numeric_owned": 33696,
+      "numeric_borrowed": 0,
+      "pattern": 680,
+      "inverse": 4896,
+      "transfer": 68,
+      "workspace": 816
+    }
+  ],
+  "pool_reserved": 724484096,
+  "alias_finest": 8008891488
+}

@@ -1,0 +1,17 @@
+# DARPA SUBOFF AFF-8 (BH + fairwater + stern appendages), skin friction coefficient
+# along the upper meridian line. Cf = tau_w/(0.5 rho U_ref^2).
+# PRIMARY SOURCE: Huang et al., 19th Symp. Naval Hydrodynamics 1994, Fig. 13 (p. 334),
+# proceedings DTIC ADA329405. Wind tunnel AFF, Re_L = 1.2e7. Uncertainty of Cf: +-0.0002.
+# Points hand-picked by the user on the calibrated figure (artifact "Tri des points Fig. 13").
+x_L,Cf
+0.1695,0.002810
+0.3988,0.002784
+0.5059,0.002737
+0.5956,0.002774
+0.6958,0.002821
+0.7345,0.003103
+0.7904,0.003051
+0.8298,0.001765
+0.8491,0.000991
+0.9444,0.001671
+0.9679,0.002659
